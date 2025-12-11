@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "TechCorp"
+  },
+  {
+    "id": 2,
+    "name": "InnovateNow"
+  },
+  {
+    "id": 3,
+    "name": "DataFlow"
+  },
+  {
+    "id": 4,
+    "name": "CloudScale"
+  },
+  {
+    "id": 5,
+    "name": "NextGen"
+  },
+  {
+    "id": 6,
+    "name": "Velocity"
+  }
+]

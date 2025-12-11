@@ -1,0 +1,17 @@
+{
+  "companyName": "3rd Edge Creative",
+  "tagline": "Bridging vision with user delight",
+  "phone": "+1 (555) 123-4567",
+  "email": "hello@3rdedge.com",
+  "social": {
+    "linkedin": "https://linkedin.com/company/3rdedge",
+    "instagram": "https://instagram.com/3rdedge",
+    "twitter": "https://twitter.com/3rdedge"
+  },
+  "navigation": [
+    { "label": "Services", "href": "#services" },
+    { "label": "Pricing", "href": "#pricing" },
+    { "label": "Case Studies", "href": "#case-studies" },
+    { "label": "Contact", "href": "#contact" }
+  ]
+}

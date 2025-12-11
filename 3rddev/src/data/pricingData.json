@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "tier": "Project-Based",
+    "bestFor": "MVPs or fixed-scope builds",
+    "value": "Predictable pricing, focused delivery",
+    "cta": "Get a Fixed Quote",
+    "recommended": false
+  },
+  {
+    "id": 2,
+    "tier": "Retainer Partnership",
+    "bestFor": "Continuous iteration and feature growth",
+    "value": "Dedicated experts on standby",
+    "cta": "Discuss a Partnership",
+    "recommended": true
+  },
+  {
+    "id": 3,
+    "tier": "Enterprise Solution",
+    "bestFor": "Complex, large-scale systems",
+    "value": "Custom architecture and full resource allocation",
+    "cta": "Contact Sales",
+    "recommended": false
+  }
+]
